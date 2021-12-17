@@ -1,0 +1,16 @@
+$gray: gray;
+$orange: rgb(255, 166, 0);
+
+$pagination-color:                  gray !default;
+$pagination-bg:                     white !default;
+$pagination-border-width:           0px !default;
+$pagination-active-color:           $orange !default;
+$pagination-active-bg:              rgb(255, 225, 170) !default;
+$pagination-focus-box-shadow:       0!default;
+$pagination-focus-color:            $gray !default;
+$pagination-focus-bg:               rgb(202, 202, 202) !default;
+$pagination-hover-color:            $gray !default;
+$pagination-hover-bg:               rgb(202, 202, 202) !default;
+$pagination-hover-border:           0 !default;
+
+@import 'node_modules/bootstrap/scss/bootstrap'
