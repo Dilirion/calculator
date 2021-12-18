@@ -1,5 +1,9 @@
 # calculator
 
+Training app with vuex, which filtrs and representing the data accordingly some user options
+
+
+
 ## Project setup
 ```
 npm install
