@@ -1,6 +1,6 @@
 # calculator
 
-Training app with vuex, which filtrs and representing the data accordingly some user options
+Training app with vuex, which filtrs and represents the data accordingly some user options
 
 
 
